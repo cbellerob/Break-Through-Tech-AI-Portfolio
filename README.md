@@ -1,6 +1,7 @@
 # Break Through Tech AI, ML Foundations
+## Machine Learning project plan for the final laboratory of the Machine Learning Foundations program at Cornell University
 
-### Final lab assignment that implements a Logistic Regression model for predicting if an adult's income is above or below $50k
+This final lab assignment implements a Logistic Regression model that predicts if an adult's income is above or below $50k
 
 ### Contributors
 * [Caroline Robinson](https://github.com/cbellerob)
