@@ -5,3 +5,6 @@ This final lab assignment implements a Logistic Regression model that predicts i
 
 ### Contributors
 * [Caroline Robinson](https://github.com/cbellerob)
+
+<br></br>
+<img src="https://tech.cornell.edu/wp-content/uploads/2020/01/4.png" width="350" title="hover text">
